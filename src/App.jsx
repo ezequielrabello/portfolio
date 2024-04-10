@@ -84,10 +84,10 @@ function App() {
                   you want to be in, such as:
                 </p>
                 <div className="icons">
-                  <li><img src="./src/assets/tree.svg" alt="tree" />Nature</li>
-                  <li><img src="./src/assets/cloudrain.svg" alt="rain" />Rain</li>
-                  <li><img src="./src/assets/fire.svg" alt="fire" />Fireplace</li>
-                  <li><img src="./src/assets/storefront.svg" alt="store" />Cafeteria</li>
+                  <li><img src="../src/assets/tree.svg" alt="tree" />Nature</li>
+                  <li><img src="../src/assets/cloudrain.svg" alt="rain" />Rain</li>
+                  <li><img src="../src/assets/fire.svg" alt="fire" />Fireplace</li>
+                  <li><img src="../src/assets/storefront.svg" alt="store" />Cafeteria</li>
                   
                   
                 </div>
