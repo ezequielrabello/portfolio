@@ -1,5 +1,5 @@
 import { Container, Presentation, Content } from "./styles"
-import icons8_github48 from "../public/assets/icons8_github48.svg"
+import icons8_github48 from "/assets/icons8_github48.svg"
 
 
 function App() {
