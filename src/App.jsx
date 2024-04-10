@@ -1,5 +1,5 @@
 import { Container, Presentation, Content } from "./styles"
-import icons8_github48 from "/assets/icons8_github48.svg"
+
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         </div>
 
         <a href="https://github.com/ezequielrabello" target="#">
-            <img src={icons8_github48} alt="Github icon"/>
+            <img src="../src/assets/icons8_github48.svg" alt="Github icon"/>
         </a>
       </Presentation>
 
