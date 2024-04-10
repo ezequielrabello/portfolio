@@ -15,7 +15,7 @@ function App() {
         </div>
 
         <a href="https://github.com/ezequielrabello" target="#">
-            <img src="./icons8_github48.svg" alt="Github icon"/>
+            <img src="../src/assets/icons8_github48.svg" alt="Github icon"/>
         </a>
       </Presentation>
 
@@ -43,7 +43,7 @@ function App() {
             <div className="images">
 
               <div className="imgtwo">
-                <img src="../assets/mobdevlinks.png" alt="" />
+                <img src="../src/assets/mobdevlinks.png" alt="" />
               </div>
 
               <div className="imgone">
