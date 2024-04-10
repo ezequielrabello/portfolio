@@ -1,5 +1,14 @@
 import { Container, Presentation, Content } from "./styles"
-
+import image from "../src/assets/icons8_github48.svg"
+import image2 from "../src/assets/mobdevlinks.png"
+import image3 from "../src/assets/desktopdevlink.png"
+import image4 from "../src/assets/focustimermobile.png"
+import image5 from "../src/assets/focustimerdesk.png"
+import image6 from "../src/assets/rocketnotes1.png"
+import image7 from "../src/assets/rocketnotes2.png"
+import image8 from "../src/assets/agecalctablet.png"
+import image9 from "../src/assets/agecalcdesk.png"
+import image10 from "../src/assets/piano.png"
 
 
 function App() {
@@ -15,7 +24,7 @@ function App() {
         </div>
 
         <a href="https://github.com/ezequielrabello" target="#">
-            <img src="../src/assets/icons8_github48.svg" alt="Github icon"/>
+            <img src={image} alt="Github icon"/>
         </a>
       </Presentation>
 
@@ -43,11 +52,11 @@ function App() {
             <div className="images">
 
               <div className="imgtwo">
-                <img src="../src/assets/mobdevlinks.png" alt="" />
+                <img src={image2} alt="" />
               </div>
 
               <div className="imgone">
-                <img src="../src/assets/desktopdevlink.png" alt="" />
+                <img src={image3} alt="" />
               </div>
 
             </div>
@@ -93,10 +102,10 @@ function App() {
             <div className="images">
 
               <div className="img6">
-                <img src="./src/assets/focustimermobile.png" alt="" />
+                <img src={image4} alt="" />
               </div>
               <div className="img5">
-                <img src="./src/assets/focustimerdesk.png" alt="" />
+                <img src={image5} alt="" />
               </div>
 
               
@@ -131,11 +140,11 @@ function App() {
             <div className="images">
 
               <div className="img3">
-                <img src="./src/assets/rocketnotes1.png" alt="" />
+                <img src={image6} alt="" />
               </div>
 
               <div className="img4">
-                <img src="./src/assets/rocketnotes2.png" alt="" />
+                <img src={image7} alt="" />
               </div>
 
             </div>
@@ -171,11 +180,11 @@ function App() {
             <div className="images">
 
               <div className="imgtwo">
-                <img src="./src/assets/agecalctablet.png" alt="" />
+                <img src={image8} alt="" />
               </div>
 
               <div className="imgone">
-                <img src="./src/assets/agecalcdesk.png" alt="" />
+                <img src={image9} alt="" />
               </div>
 
             </div>
@@ -211,7 +220,7 @@ function App() {
             <div className="images">
 
               <div className="img3">
-                <img src="./src/assets/piano.png" alt="Piano" />
+                <img src={image10} alt="Piano" />
               </div>
 
               
