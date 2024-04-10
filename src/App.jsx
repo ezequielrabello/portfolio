@@ -15,7 +15,7 @@ function App() {
         </div>
 
         <a href="https://github.com/ezequielrabello" target="#">
-            <img src="" alt="Github icon"/>
+            <img src="./icons8_github48.svg" alt="Github icon"/>
         </a>
       </Presentation>
 
