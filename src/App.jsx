@@ -15,7 +15,7 @@ function App() {
         </div>
 
         <a href="https://github.com/ezequielrabello" target="#">
-            <img src="../src/assets/icons8_github48.svg" alt="Github icon"/>
+            <img src="./assets/icons8_github48.svg" alt="Github icon"/>
         </a>
       </Presentation>
 
@@ -43,11 +43,11 @@ function App() {
             <div className="images">
 
               <div className="imgtwo">
-                <img src="../src/assets/mobdevlinks.png" alt="" />
+                <img src="./assets/mobdevlinks.png" alt="" />
               </div>
 
               <div className="imgone">
-                <img src="../src/assets/desktopdevlink.png" alt="" />
+                <img src="./src/assets/desktopdevlink.png" alt="" />
               </div>
 
             </div>
@@ -75,10 +75,10 @@ function App() {
                   you want to be in, such as:
                 </p>
                 <div className="icons">
-                  <li><img src="../src/assets/tree.svg" alt="tree" />Nature</li>
-                  <li><img src="../src/assets/cloudrain.svg" alt="rain" />Rain</li>
-                  <li><img src="../src/assets/fire.svg" alt="fire" />Fireplace</li>
-                  <li><img src="../src/assets/storefront.svg" alt="store" />Cafeteria</li>
+                  <li><img src="./src/assets/tree.svg" alt="tree" />Nature</li>
+                  <li><img src="./src/assets/cloudrain.svg" alt="rain" />Rain</li>
+                  <li><img src="./src/assets/fire.svg" alt="fire" />Fireplace</li>
+                  <li><img src="./src/assets/storefront.svg" alt="store" />Cafeteria</li>
                   
                   
                 </div>
@@ -93,10 +93,10 @@ function App() {
             <div className="images">
 
               <div className="img6">
-                <img src="../src/assets/focustimermobile.png" alt="" />
+                <img src="./src/assets/focustimermobile.png" alt="" />
               </div>
               <div className="img5">
-                <img src="../src/assets/focustimerdesk.png" alt="" />
+                <img src="./src/assets/focustimerdesk.png" alt="" />
               </div>
 
               
@@ -131,11 +131,11 @@ function App() {
             <div className="images">
 
               <div className="img3">
-                <img src="../src/assets/rocketnotes1.png" alt="" />
+                <img src="./src/assets/rocketnotes1.png" alt="" />
               </div>
 
               <div className="img4">
-                <img src="../src/assets/rocketnotes2.png" alt="" />
+                <img src="./src/assets/rocketnotes2.png" alt="" />
               </div>
 
             </div>
@@ -171,11 +171,11 @@ function App() {
             <div className="images">
 
               <div className="imgtwo">
-                <img src="../src/assets/agecalctablet.png" alt="" />
+                <img src="./src/assets/agecalctablet.png" alt="" />
               </div>
 
               <div className="imgone">
-                <img src="../src/assets/agecalcdesk.png" alt="" />
+                <img src="./src/assets/agecalcdesk.png" alt="" />
               </div>
 
             </div>
@@ -211,7 +211,7 @@ function App() {
             <div className="images">
 
               <div className="img3">
-                <img src="../src/assets/piano.png" alt="Piano" />
+                <img src="./src/assets/piano.png" alt="Piano" />
               </div>
 
               
